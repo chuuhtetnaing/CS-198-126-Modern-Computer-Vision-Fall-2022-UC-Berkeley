@@ -3,3 +3,5 @@
 datasets
 MNIST
 .DS_Store
+data
+oxford-iiit-pet
