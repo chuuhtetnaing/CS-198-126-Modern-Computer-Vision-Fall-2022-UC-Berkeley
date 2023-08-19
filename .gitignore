@@ -2,3 +2,4 @@
 *.jpg
 datasets
 MNIST
+.DS_Store
